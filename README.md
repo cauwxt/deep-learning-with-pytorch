@@ -1,2 +1,7 @@
 # deep-learning-with-pytorch
-Pytorch 学习笔记
+## 学习日志
+### 第一天
+#### 1.搭建环境
+python 3.6.8 + torch 1.8.1
+#### 2.熟悉基本操作
+
