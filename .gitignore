@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .vscode/settings.json
+DAY2/model.ckpt
+DAY2/params.ckpt
