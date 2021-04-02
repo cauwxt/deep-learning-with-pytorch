@@ -5,3 +5,8 @@
 python 3.6.8 + torch 1.8.1
 #### 2.熟悉基本操作
 
+
+## PyTroch入门学习笔记
+视频链接：https://www.bilibili.com/video/BV12741177Cu
+GitHub：https://github.com/ZeweiChu/PyTorch-Course
+-----------------------------------------------
