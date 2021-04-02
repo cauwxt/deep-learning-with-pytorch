@@ -57,3 +57,9 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c cond
 import torch
 print(torch.cuda.is_available())
 ```
+
+## 远程利用jupyter notebook
+
+- `jupyter notebook passwprd`
+- 设置密码
+- 开启`jupyter notebook --no-browser --port 7777 --ip=xxx.xxx.x.xxx`
