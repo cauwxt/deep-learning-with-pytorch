@@ -51,3 +51,9 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c cond
 - 安装完成之后激活新环境，`conda activate pytorch`
 - 安装PyTorch，输入`conda install pytorch torchvision torchaudio cudatoolkit=11.1 -c pytorch -c conda-forge`
 - 安装jupyter notebook，`pip install jupyter notebook -i https://pypi.tuna.tsinghua.edu.cn/simple`
+- 验证是否安装完成
+  
+```python
+import torch
+print(torch.cuda.is_available())
+```
